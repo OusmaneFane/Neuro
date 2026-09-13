@@ -1,0 +1,238 @@
+[
+  {
+    "system": "http://loinc.org",
+    "code": "24725-4",
+    "label_fr": "TDM — crâne / encéphale",
+    "label_en": "CT Head"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24727-0",
+    "label_fr": "TDM — crâne avec produit de contraste IV",
+    "label_en": "CT Head W contrast IV"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24728-8",
+    "label_fr": "TDM — perfusion cérébrale",
+    "label_en": "CT perfusion Head"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24627-2",
+    "label_fr": "TDM — thorax",
+    "label_en": "CT Chest"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24628-0",
+    "label_fr": "TDM — thorax avec produit de contraste IV",
+    "label_en": "CT Chest W contrast IV"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "36424-0",
+    "label_fr": "TDM — abdomen sans contraste",
+    "label_en": "CT Abdomen WO contrast"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "79103-8",
+    "label_fr": "TDM — abdomen avec produit de contraste IV",
+    "label_en": "CT Abdomen W contrast IV"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "72253-8",
+    "label_fr": "TDM — thorax + abdomen + bassin sans contraste (CAP)",
+    "label_en": "CT Chest and Abdomen and Pelvis WO contrast"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "36425-7",
+    "label_fr": "TDM — cheville sans contraste",
+    "label_en": "CT Ankle WO contrast"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "36426-5",
+    "label_fr": "TDM — cheville gauche sans contraste",
+    "label_en": "CT Ankle - left WO contrast"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "25045-6",
+    "label_fr": "TDM — région corporelle non précisée",
+    "label_en": "CT Unspecified body region"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "25047-2",
+    "label_fr": "TDM — région non précisée (sédation consciente)",
+    "label_en": "CT Unspecified body region W conscious sedation"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24590-2",
+    "label_fr": "IRM — cerveau",
+    "label_en": "MR Brain"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24629-8",
+    "label_fr": "IRM — thorax",
+    "label_en": "MR Chest"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24802-1",
+    "label_fr": "IRM — genou",
+    "label_en": "MR Knee"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "36427-3",
+    "label_fr": "IRM — cheville gauche sans contraste",
+    "label_en": "MR Ankle - left WO contrast"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "25056-3",
+    "label_fr": "IRM — région corporelle non précisée",
+    "label_en": "MR Unspecified body region"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "36432-3",
+    "label_fr": "Angio-IRM — aorte abdominale sans contraste",
+    "label_en": "MRA Abdominal Aorta WO contrast"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "30745-4",
+    "label_fr": "Radiographie — thorax (incidences multiples)",
+    "label_en": "XR Chest Views"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24632-2",
+    "label_fr": "Radiographie — thorax portable face (AP)",
+    "label_en": "Portable XR Chest Views AP"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "30746-2",
+    "label_fr": "Radiographie — thorax portable (vues)",
+    "label_en": "Portable XR Chest Views"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24635-5",
+    "label_fr": "Radiographie — thorax PA debout, inspiration et expiration",
+    "label_en": "XR Chest PA upright Views W inspiration and expiration"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24637-1",
+    "label_fr": "Radiographie — thorax AP décubitus latéral gauche",
+    "label_en": "XR Chest AP left lateral-decubitus"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24638-9",
+    "label_fr": "Radiographie — thorax profil gauche debout (portable)",
+    "label_en": "Portable XR Chest Left lateral upright"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24560-5",
+    "label_fr": "Radiographie — abdomen AP décubitus latéral gauche (portable)",
+    "label_en": "Portable XR Abdomen AP left lateral-decubitus"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24604-1",
+    "label_fr": "Mammographie — sein (diagnostic, vues limitées)",
+    "label_en": "MG Breast Diagnostic Limited Views"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24605-8",
+    "label_fr": "Mammographie — sein (diagnostic)",
+    "label_en": "MG Breast Diagnostic"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24606-6",
+    "label_fr": "Mammographie — sein (dépistage)",
+    "label_en": "MG Breast Screening"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "36625-2",
+    "label_fr": "Mammographie — sein (vues)",
+    "label_en": "MG Breast Views"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24631-4",
+    "label_fr": "Fluoroscopie — contrôle de cathéter veineux central",
+    "label_en": "RF Unspecified body region Views for central venous catheter placement check"
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "77477000",
+    "label_fr": "TDM (tomodensitométrie / scanner), non précisé",
+    "label_en": "Computerized axial tomography",
+    "legacyKeys": ["TDM"]
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "418564007",
+    "label_fr": "Angioscanner (angiographie par TDM), non précisé",
+    "label_en": "Computed tomographic angiography",
+    "legacyKeys": ["Angio scanner"]
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "168537006",
+    "label_fr": "Radiographie (non précisée)",
+    "label_en": "Plain radiography",
+    "legacyKeys": ["Radiographie"]
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "113090000",
+    "label_fr": "IRM (non précisée)",
+    "label_en": "Magnetic resonance imaging",
+    "legacyKeys": ["IRM"]
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "434414005",
+    "label_fr": "Angio-IRM (non précisée)",
+    "label_en": "Magnetic resonance angiography",
+    "legacyKeys": ["Angio IRM"]
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "716503007",
+    "label_fr": "Mammographie (non précisée)",
+    "label_en": "Mammography of breast",
+    "legacyKeys": []
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "241620005",
+    "label_fr": "TEP / PET (tomographie par émission de positons)",
+    "label_en": "Positron emission tomography",
+    "legacyKeys": []
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "269854000",
+    "label_fr": "Scintigraphie (médecine nucléaire)",
+    "label_en": "Radionuclide imaging study",
+    "legacyKeys": []
+  }
+]

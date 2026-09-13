@@ -1,0 +1,93 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'DM Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-login-display: 'Figtree', 'DM Sans', ui-sans-serif, system-ui, sans-serif;
+  --color-primary: #1a9e4a;
+  --color-primary-foreground: #fff;
+  --color-brand: #7cff6a;
+  --color-brand-dark: #0d1e35;
+  --color-sidebar: #1a3352;
+  --color-muted: #f1f5f9;
+  --color-muted-foreground: #64748b;
+  --color-border: #e2e8f0;
+  --color-ring: #3ddc6c;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+/* Login — DoniSanté */
+@keyframes login-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes login-orb-drift {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(4%, -3%) scale(1.06);
+  }
+}
+
+@keyframes login-orb-drift-alt {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(-5%, 4%) scale(1.08);
+  }
+}
+
+.login-fade-up {
+  animation: login-fade-up 0.75s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.login-fade-up-delay {
+  animation: login-fade-up 0.8s cubic-bezier(0.22, 1, 0.36, 1) 0.12s both;
+}
+
+.login-fade-up-delay-2 {
+  animation: login-fade-up 0.85s cubic-bezier(0.22, 1, 0.36, 1) 0.24s both;
+}
+
+.login-orb-a {
+  animation: login-orb-drift 14s ease-in-out infinite;
+}
+
+.login-orb-b {
+  animation: login-orb-drift-alt 18s ease-in-out infinite;
+}
+
+html.login-lock,
+body.login-lock {
+  height: 100%;
+  overflow: hidden;
+}
+
+.login-page {
+  height: 100dvh;
+  max-height: 100dvh;
+  overflow: hidden;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .login-fade-up,
+  .login-fade-up-delay,
+  .login-fade-up-delay-2,
+  .login-orb-a,
+  .login-orb-b {
+    animation: none;
+  }
+}

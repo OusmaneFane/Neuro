@@ -1,0 +1,402 @@
+[
+  {
+    "code": "2345-7",
+    "name": "Glucose sérique"
+  },
+  {
+    "code": "3094-0",
+    "name": "Urée sanguine"
+  },
+  {
+    "code": "2160-0",
+    "name": "Créatinine sérique"
+  },
+  {
+    "code": "3097-6",
+    "name": "Urée urinaire"
+  },
+  {
+    "code": "33914-3",
+    "name": "Globulation glycémique (HbA1c)"
+  },
+  {
+    "code": "2571-8",
+    "name": "Triglycérides"
+  },
+  {
+    "code": "2085-9",
+    "name": "Cholestérol HDL"
+  },
+  {
+    "code": "2086-7",
+    "name": "Cholestérol LDL"
+  },
+  {
+    "code": "2093-3",
+    "name": "Cholestérol total"
+  },
+  {
+    "code": "1920-8",
+    "name": "ASAT (SGOT)"
+  },
+  {
+    "code": "1742-6",
+    "name": "ALAT (SGPT)"
+  },
+  {
+    "code": "2324-2",
+    "name": "Gamma-GT"
+  },
+  {
+    "code": "1963-8",
+    "name": "Bilirubine totale"
+  },
+  {
+    "code": "1975-2",
+    "name": "Bilirubine conjuguée"
+  },
+  {
+    "code": "789-8",
+    "name": "Hémoglobine"
+  },
+  {
+    "code": "787-2",
+    "name": "Hématocrite"
+  },
+  {
+    "code": "6690-2",
+    "name": "Leucocytes (globules blancs)"
+  },
+  {
+    "code": "777-3",
+    "name": "Plaquettes"
+  },
+  {
+    "code": "736-9",
+    "name": "Formule sanguine"
+  },
+  {
+    "code": "2951-2",
+    "name": "Sodium sérique"
+  },
+  {
+    "code": "2823-3",
+    "name": "Potassium sérique"
+  },
+  {
+    "code": "2075-0",
+    "name": "Chlore sérique"
+  },
+  {
+    "code": "2028-9",
+    "name": "Bicarbonate"
+  },
+  {
+    "code": "17861-7",
+    "name": "Calcium sérique"
+  },
+  {
+    "code": "2777-1",
+    "name": "Phosphate sérique"
+  },
+  {
+    "code": "17861-6",
+    "name": "Magnésium sérique"
+  },
+  {
+    "code": "1988-5",
+    "name": "CRP (protéine C réactive)"
+  },
+  {
+    "code": "30522-7",
+    "name": "CRP ultra-sensible"
+  },
+  {
+    "code": "2885-2",
+    "name": "Protéines totales sériques"
+  },
+  {
+    "code": "1751-7",
+    "name": "Albumine sérique"
+  },
+  {
+    "code": "10834-0",
+    "name": "Troponine I cardiaque"
+  },
+  {
+    "code": "30934-4",
+    "name": "Troponine I haute sensibilité"
+  },
+  {
+    "code": "2157-6",
+    "name": "Créatine kinase (CPK)"
+  },
+  {
+    "code": "2532-0",
+    "name": "LDH (lactico-déshydrogénase)"
+  },
+  {
+    "code": "3016-3",
+    "name": "TSH (thyréostimuline)"
+  },
+  {
+    "code": "3024-7",
+    "name": "T4 libre"
+  },
+  {
+    "code": "3018-9",
+    "name": "T3 libre"
+  },
+  {
+    "code": "2132-9",
+    "name": "Vitamine B12 (cobalamine)"
+  },
+  {
+    "code": "2284-8",
+    "name": "Folates sériques"
+  },
+  {
+    "code": "2285-5",
+    "name": "Folates érythrocytaires"
+  },
+  {
+    "code": "2472-0",
+    "name": "Homocystéine"
+  },
+  {
+    "code": "27353-2",
+    "name": "Vitamine D (25-OH)"
+  },
+  {
+    "code": "32016-8",
+    "name": "Vitamine B1 (thiamine)"
+  },
+  {
+    "code": "2692-2",
+    "name": "Vitamine B6 (pyridoxine)"
+  },
+  {
+    "code": "2801-0",
+    "name": "Acide folique"
+  },
+  {
+    "code": "2775-5",
+    "name": "Fer sérique"
+  },
+  {
+    "code": "2498-6",
+    "name": "Ferritine"
+  },
+  {
+    "code": "2501-7",
+    "name": "Transferrine"
+  },
+  {
+    "code": "2544-7",
+    "name": "Capacité de fixation du fer"
+  },
+  {
+    "code": "39196-5",
+    "name": "Bilan martial"
+  },
+  {
+    "code": "48643-1",
+    "name": "Temps de prothrombine (TP / INR)"
+  },
+  {
+    "code": "3173-2",
+    "name": "Taux de prothrombine"
+  },
+  {
+    "code": "3177-3",
+    "name": "INR"
+  },
+  {
+    "code": "3174-0",
+    "name": "Temps de céphaline activé (TCK)"
+  },
+  {
+    "code": "3255-7",
+    "name": "Fibrinogène"
+  },
+  {
+    "code": "33959-8",
+    "name": "D-dimères"
+  },
+  {
+    "code": "6598-7",
+    "name": "Troponine T cardiaque"
+  },
+  {
+    "code": "39195-7",
+    "name": "BNP (peptide natriurétique B)"
+  },
+  {
+    "code": "30934-5",
+    "name": "NT-proBNP"
+  },
+  {
+    "code": "2164-2",
+    "name": "Créatinine urinaire"
+  },
+  {
+    "code": "33914-4",
+    "name": "Clairance de la créatinine"
+  },
+  {
+    "code": "14957-5",
+    "name": "Microalbuminurie"
+  },
+  {
+    "code": "2888-6",
+    "name": "Protéinurie des 24 h"
+  },
+  {
+    "code": "3097-7",
+    "name": "Urée urinaire 24 h"
+  },
+  {
+    "code": "2345-8",
+    "name": "Glycémie à jeun"
+  },
+  {
+    "code": "1554-4",
+    "name": "Glycémie post-prandiale"
+  },
+  {
+    "code": "14771-9",
+    "name": "Insuline à jeun"
+  },
+  {
+    "code": "14927-7",
+    "name": "Péptide C"
+  },
+  {
+    "code": "2339-0",
+    "name": "Courbe glycémique (HGPO)"
+  },
+  {
+    "code": "6768-6",
+    "name": "Anticorps anti-thyroperoxydase (TPO)"
+  },
+  {
+    "code": "5318-2",
+    "name": "Anticorps anti-thyroglobuline"
+  },
+  {
+    "code": "5905-5",
+    "name": "Anticorps anti-TSH récepteurs"
+  },
+  {
+    "code": "5902-2",
+    "name": "Anticorps anti-nucléaires"
+  },
+  {
+    "code": "704-7",
+    "name": "Facteur rhumatoïde"
+  },
+  {
+    "code": "35216-5",
+    "name": "Anti-CCP (anti-peptides cycliques citrullinés)"
+  },
+  {
+    "code": "58448-9",
+    "name": "Anticorps anti-ADN natif"
+  },
+  {
+    "code": "13945-1",
+    "name": "Complément C3"
+  },
+  {
+    "code": "13946-9",
+    "name": "Complément C4"
+  },
+  {
+    "code": "13965-9",
+    "name": "Complément CH50"
+  },
+  {
+    "code": "13969-1",
+    "name": "Facteur antinucléaire (FAN)"
+  },
+  {
+    "code": "33914-5",
+    "name": "DFG (débit de filtration glomérulaire estimé)"
+  },
+  {
+    "code": "48642-3",
+    "name": "Bilan hépatique"
+  },
+  {
+    "code": "24320-4",
+    "name": "Bilan lipidique"
+  },
+  {
+    "code": "24323-8",
+    "name": "Bilan thyroïdien"
+  },
+  {
+    "code": "24325-3",
+    "name": "Bilan rénal"
+  },
+  {
+    "code": "24322-0",
+    "name": "Bilan ionique"
+  },
+  {
+    "code": "58410-2",
+    "name": "Bilan inflammatoire"
+  },
+  {
+    "code": "2888-6",
+    "name": "Protéinurie"
+  },
+  {
+    "code": "5792-7",
+    "name": "Hémoglobine glyquée (HbA1c)"
+  },
+  {
+    "code": "26464-8",
+    "name": "Leucocytes urinaires"
+  },
+  {
+    "code": "2514-8",
+    "name": "Nitrites urinaires"
+  },
+  {
+    "code": "5799-2",
+    "name": "Hémoglobine urinaire"
+  },
+  {
+    "code": "14957-5",
+    "name": "Rapport albumine/créatinine urinaire"
+  },
+  {
+    "code": "2069-3",
+    "name": "Cholestérol non HDL"
+  },
+  {
+    "code": "2574-2",
+    "name": "Apolipoprotéine A1"
+  },
+  {
+    "code": "2573-4",
+    "name": "Apolipoprotéine B"
+  },
+  {
+    "code": "2572-6",
+    "name": "Lipoprotéine (a)"
+  },
+  {
+    "code": "2091-7",
+    "name": "Cholestérol VLDL"
+  },
+  {
+    "code": "14635-7",
+    "name": "25-hydroxyvitamine D"
+  },
+  {
+    "code": "14647-2",
+    "name": "Cortisol libre urinaire"
+  }
+]

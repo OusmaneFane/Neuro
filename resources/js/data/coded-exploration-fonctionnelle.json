@@ -1,0 +1,145 @@
+[
+  {
+    "system": "http://snomed.info/sct",
+    "code": "40701008",
+    "label_fr": "Échographie (général)",
+    "label_en": "Echography",
+    "legacyKeys": ["Echo", "Échographie"]
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24630-6",
+    "label_fr": "Échographie — thorax",
+    "label_en": "US Chest"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24558-9",
+    "label_fr": "Échographie — abdomen",
+    "label_en": "US Abdomen"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "30704-1",
+    "label_fr": "Échographie — abdomen (exploration limitée)",
+    "label_en": "US Abdomen limited"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "103901-5",
+    "label_fr": "Échographie — abdomen et pelvis",
+    "label_en": "US Abdomen and Pelvis"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24531-6",
+    "label_fr": "Échographie — rétropéritoine",
+    "label_en": "US Retroperitoneum"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "69276-4",
+    "label_fr": "Échographie — aorte abdominale",
+    "label_en": "US Abdominal Aorta"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24869-0",
+    "label_fr": "Échographie — pelvis",
+    "label_en": "US Pelvis"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24677-7",
+    "label_fr": "Échographie — pelvis (endovaginale)",
+    "label_en": "US Pelvis transvaginal"
+  },
+  {
+    "system": "http://loinc.org",
+    "code": "24559-7",
+    "label_fr": "Échographie — guidage drainage / pose de cathéter d'abord abdominal",
+    "label_en": "US Guidance for drainage and placement of drainage catheter of Abdomen"
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "84251007",
+    "label_fr": "Échographie (non précisée, SNOMED)",
+    "label_en": "Ultrasonography"
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "131950008",
+    "label_fr": "Doppler (échographie Doppler couleur)",
+    "label_en": "Color flow Doppler imaging",
+    "legacyKeys": ["Doppler"]
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "29303009",
+    "label_fr": "ECG (électrocardiogramme)",
+    "label_en": "Electrocardiographic procedure",
+    "legacyKeys": ["ECG"],
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "34534-8",
+      "display": "EKG study"
+    }
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "710829007",
+    "label_fr": "Holter ECG (enregistrement ambulatoire 24h)",
+    "label_en": "24 hour ambulatory electrocardiography",
+    "legacyKeys": ["Holter"],
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "34591-8",
+      "display": "Holter monitor study"
+    }
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "433236007",
+    "label_fr": "ETT (échocardiographie transthoracique)",
+    "label_en": "Transthoracic echocardiography",
+    "legacyKeys": ["ETT"]
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "433238008",
+    "label_fr": "ETO (échocardiographie transœsophagienne)",
+    "label_en": "Transesophageal echocardiography",
+    "legacyKeys": ["ETO"]
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "54550000",
+    "label_fr": "EMG (électromyographie)",
+    "label_en": "Needle electromyography",
+    "legacyKeys": ["EMG"],
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "11524-9",
+      "display": "EMG study"
+    }
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "82272006",
+    "label_fr": "EEG (électroencéphalographie)",
+    "label_en": "Electroencephalography",
+    "legacyKeys": ["EEG"],
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "13169-0",
+      "display": "EEG study"
+    }
+  },
+  {
+    "system": "http://snomed.info/sct",
+    "code": "36228007",
+    "label_fr": "Fond d'œil (ophtalmoscopie)",
+    "label_en": "Ophthalmoscopy",
+    "legacyKeys": ["Fond d'œil"]
+  }
+]

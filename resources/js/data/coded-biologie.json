@@ -1,0 +1,1077 @@
+[
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPNUT__4acabe79f335",
+    "label_fr": "PROFIL NUTRITIONNEL",
+    "label_en": "PROFIL NUTRITIONNEL",
+    "internal_code": "RBPNUT",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)"
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBTCA__cc856b57b377",
+    "label_fr": "TCA",
+    "label_en": "TCA",
+    "internal_code": "RBTCA",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "14979-9",
+      "display": "TCA"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBCA__d68669e8cb84",
+    "label_fr": "Calcium",
+    "label_en": "Calcium",
+    "internal_code": "RBCA",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "17861-6",
+      "display": "Calcium"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBCRP__9e6d393e0fd4",
+    "label_fr": "CRP",
+    "label_en": "CRP",
+    "internal_code": "RBCRP",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "1988-5",
+      "display": "CRP"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBBW__09477461cc31",
+    "label_fr": "Sérologie de la Syphilis : Dépistage",
+    "label_en": "Sérologie de la Syphilis : Dépistage",
+    "internal_code": "RBBW",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "20507-0",
+      "display": "Sérologie de la Syphilis : Dépistage"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBFOLS__2410647e3b59",
+    "label_fr": "Vitamine B9 (Folates Sériques)",
+    "label_en": "Vitamine B9 (Folates Sériques)",
+    "internal_code": "RBFOLS",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "2284-8",
+      "display": "Vitamine B9 (Folates Sériques)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBGLY__156f59f2253e",
+    "label_fr": "Glycémie",
+    "label_en": "Glycémie",
+    "internal_code": "RBGLY",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "2345-7",
+      "display": "Glycémie"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBI2__870273007ce8",
+    "label_fr": "Na, K, Cl, CO2, PT, Urée, Créat",
+    "label_en": "Na, K, Cl, CO2, PT, Urée, Créat",
+    "internal_code": "RBI2",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24321-2",
+      "display": "Na, K, Cl, CO2, PT, Urée, Créat"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBHIV__de6a85372f2d",
+    "label_fr": "Sérodiagnostic de dépistage des anticorps anti - HIV :",
+    "label_en": "Sérodiagnostic de dépistage des anticorps anti - HIV :",
+    "internal_code": "RBHIV",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "56888-1",
+      "display": "Sérodiagnostic de dépistage des anticorps anti - HIV :"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBNF__fc705e799f55",
+    "label_fr": "NUMERATION FORMULE SANGUINE",
+    "label_en": "NUMERATION FORMULE SANGUINE",
+    "internal_code": "RBNF",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "57021-8",
+      "display": "NUMERATION FORMULE SANGUINE"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBTQ__8507e8d83855",
+    "label_fr": "TQ OU INR",
+    "label_en": "TQ OU INR",
+    "internal_code": "RBTQ",
+    "group": "NEURO - Bilan de démence (NEURO-DEMENCE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "6301-6",
+      "display": "TQ OU INR"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPNUT__76a6541ebc8c",
+    "label_fr": "PROFIL NUTRITIONNEL",
+    "label_en": "PROFIL NUTRITIONNEL",
+    "internal_code": "RBPNUT",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)"
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBTCA__af85581ab68d",
+    "label_fr": "TCA",
+    "label_en": "TCA",
+    "internal_code": "RBTCA",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "14979-9",
+      "display": "TCA"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBCA__cb47dae919b6",
+    "label_fr": "Calcium",
+    "label_en": "Calcium",
+    "internal_code": "RBCA",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "17861-6",
+      "display": "Calcium"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBCRP__11f387aafb2f",
+    "label_fr": "CRP",
+    "label_en": "CRP",
+    "internal_code": "RBCRP",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "1988-5",
+      "display": "CRP"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBGLY__7c14a9a304e6",
+    "label_fr": "Glycémie",
+    "label_en": "Glycémie",
+    "internal_code": "RBGLY",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "2345-7",
+      "display": "Glycémie"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBI2__a8af7790f34d",
+    "label_fr": "Na, K, Cl, CO2, PT, Urée, Créat",
+    "label_en": "Na, K, Cl, CO2, PT, Urée, Créat",
+    "internal_code": "RBI2",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24321-2",
+      "display": "Na, K, Cl, CO2, PT, Urée, Créat"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBBH__ffb268804647",
+    "label_fr": "Transaminases, PALC, GGT",
+    "label_en": "Transaminases, PALC, GGT",
+    "internal_code": "RBBH",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24325-3",
+      "display": "Transaminases, PALC, GGT"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBBL__5ee8bf5a58b1",
+    "label_fr": "BILAN LIPIDIQUE",
+    "label_en": "BILAN LIPIDIQUE",
+    "internal_code": "RBBL",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24331-1",
+      "display": "BILAN LIPIDIQUE"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBEPP__fd46be7c446c",
+    "label_fr": "ELECTROPHORESE DES PROTEINES SERIQUES",
+    "label_en": "ELECTROPHORESE DES PROTEINES SERIQUES",
+    "internal_code": "RBEPP",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24351-9",
+      "display": "ELECTROPHORESE DES PROTEINES SERIQUES"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBTSH__cc10158cc4b7",
+    "label_fr": "TSH",
+    "label_en": "TSH",
+    "internal_code": "RBTSH",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "3016-3",
+      "display": "TSH"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBFIB__7fbe74b5be1c",
+    "label_fr": "Fibrinogène",
+    "label_en": "Fibrinogène",
+    "internal_code": "RBFIB",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "3255-7",
+      "display": "Fibrinogène"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBHBA1C__16d8fb33399e",
+    "label_fr": "Hémoglobine A1C",
+    "label_en": "Hémoglobine A1C",
+    "internal_code": "RBHBA1C",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "4548-4",
+      "display": "Hémoglobine A1C"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBNF__ca6f3118b162",
+    "label_fr": "NUMERATION FORMULE SANGUINE",
+    "label_en": "NUMERATION FORMULE SANGUINE",
+    "internal_code": "RBNF",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "57021-8",
+      "display": "NUMERATION FORMULE SANGUINE"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBTQ__fda1fae65c1c",
+    "label_fr": "TQ OU INR",
+    "label_en": "TQ OU INR",
+    "internal_code": "RBTQ",
+    "group": "NEURO - Bilan Entrée AVC (NEURO-ENTR-AVC2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "6301-6",
+      "display": "TQ OU INR"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBACNEU__2fa8c03630d0",
+    "label_fr": "Anticorps anti neuronaux",
+    "label_en": "Anticorps anti neuronaux",
+    "internal_code": "RBACNEU",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)"
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBLCR__22e0f31a37dd",
+    "label_fr": "Liquide Céphalo-Rachidien",
+    "label_en": "Liquide Céphalo-Rachidien",
+    "internal_code": "RBLCR",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)"
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBLCREBV__0c6d3a0db24c",
+    "label_fr": "PCR EBV Epstein Barr Virus -- LCR",
+    "label_en": "PCR EBV Epstein Barr Virus -- LCR",
+    "internal_code": "RBLCREBV",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "11259-9",
+      "display": "PCR EBV Epstein Barr Virus -- LCR"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBISOLCR__e3bb26e0b836",
+    "label_fr": "Isofocalisation du LCR",
+    "label_en": "Isofocalisation du LCR",
+    "internal_code": "RBISOLCR",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "13506-1",
+      "display": "Isofocalisation du LCR"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPLECA__97e531b8c234",
+    "label_fr": "Enzyme de conversion de l'angiotensine LCR",
+    "label_en": "Enzyme de conversion de l'angiotensine LCR",
+    "internal_code": "RBPLECA",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "2004-0",
+      "display": "Enzyme de conversion de l'angiotensine LCR"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPLCL__258c067eb376",
+    "label_fr": "Chlorurachie",
+    "label_en": "Chlorurachie",
+    "internal_code": "RBPLCL",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "2069-3",
+      "display": "Chlorurachie"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBBILCR__2eaa11c567d4",
+    "label_fr": "Biochimie - LCR",
+    "label_en": "Biochimie - LCR",
+    "internal_code": "RBBILCR",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24317-0",
+      "display": "Biochimie - LCR"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBCVCMVL__cce5c04182d2",
+    "label_fr": "Détection-quantification de l'ADN du CMV -- LCR",
+    "label_en": "Détection-quantification de l'ADN du CMV -- LCR",
+    "internal_code": "RBCVCMVL",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "28010-7",
+      "display": "Détection-quantification de l'ADN du CMV -- LCR"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBBK__650bb1d3dee1",
+    "label_fr": "Recherche de Mycobactéries",
+    "label_en": "Recherche de Mycobactéries",
+    "internal_code": "RBBK",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "29745-7",
+      "display": "Recherche de Mycobactéries"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBCRLCR__0fee1390048d",
+    "label_fr": "Recherche d'antigènes solubles de Cryptococcus néoformans dans le LCR",
+    "label_en": "Recherche d'antigènes solubles de Cryptococcus néoformans dans le LCR",
+    "internal_code": "RBCRLCR",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "29895-0",
+      "display": "Recherche d'antigènes solubles de Cryptococcus néoformans dans le LCR"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBMCJ__c9179f022b4b",
+    "label_fr": "Western Blot Protéine 14.3.3",
+    "label_en": "Western Blot Protéine 14.3.3",
+    "internal_code": "RBMCJ",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "30089-7",
+      "display": "Western Blot Protéine 14.3.3"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBLCRSL__d4cedb41f968",
+    "label_fr": "LYME sérologie LCR",
+    "label_en": "LYME sérologie LCR",
+    "internal_code": "RBLCRSL",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "34135-4",
+      "display": "LYME sérologie LCR"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPCRBK__37683f5735d2",
+    "label_fr": "PCR BK",
+    "label_en": "PCR BK",
+    "internal_code": "RBPCRBK",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "38356-2",
+      "display": "PCR BK"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBBWTLCR__018271364ba2",
+    "label_fr": "Sérologie de la Syphilis : Titrage",
+    "label_en": "Sérologie de la Syphilis : Titrage",
+    "internal_code": "RBBWTLCR",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "5071-1",
+      "display": "Sérologie de la Syphilis : Titrage"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPCREV__67ad2d8a7b46",
+    "label_fr": "Recherche d'Enterovirus",
+    "label_en": "Recherche d'Enterovirus",
+    "internal_code": "RBPCREV",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "58444-1",
+      "display": "Recherche d'Enterovirus"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPCRHSV__654be2682ad5",
+    "label_fr": "Recherche d'HSV( Herpes) 1/2 et VZV",
+    "label_en": "Recherche d'HSV( Herpes) 1/2 et VZV",
+    "internal_code": "RBPCRHSV",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "93348-1",
+      "display": "Recherche d'HSV( Herpes) 1/2 et VZV"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBALZ__d7bb8b1d17a0",
+    "label_fr": "Maladies neurodegeneratives (Alzeimer)",
+    "label_en": "Maladies neurodegeneratives (Alzeimer)",
+    "internal_code": "RBALZ",
+    "group": "NEURO - Bilan Ponction Lombaire (NEURO-LCR-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "95420-6",
+      "display": "Maladies neurodegeneratives (Alzeimer)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBSVZV__49032eaf4c6a",
+    "label_fr": "Recherche d'une immunité ancienne par le virus de la Varicelle et du Zona :",
+    "label_en": "Recherche d'une immunité ancienne par le virus de la Varicelle et du Zona :",
+    "internal_code": "RBSVZV",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "15410-4",
+      "display": "Recherche d'une immunité ancienne par le virus de la Varicelle et du Zona :"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBHVC__e5babf1cb188",
+    "label_fr": "Hépatite C : Sérodiagnostic de dépistage :",
+    "label_en": "Hépatite C : Sérodiagnostic de dépistage :",
+    "internal_code": "RBHVC",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "16128-1",
+      "display": "Hépatite C : Sérodiagnostic de dépistage :"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBBW__ebaee291bc8e",
+    "label_fr": "Sérologie de la Syphilis : Dépistage",
+    "label_en": "Sérologie de la Syphilis : Dépistage",
+    "internal_code": "RBBW",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "20507-0",
+      "display": "Sérologie de la Syphilis : Dépistage"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBI2__719d9b8147ac",
+    "label_fr": "Na, K, Cl, CO2, PT, Urée, Créat",
+    "label_en": "Na, K, Cl, CO2, PT, Urée, Créat",
+    "internal_code": "RBI2",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24321-2",
+      "display": "Na, K, Cl, CO2, PT, Urée, Créat"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBBI__8786c82a7601",
+    "label_fr": "Asat, Alat, Palc, GGT, Bili",
+    "label_en": "Asat, Alat, Palc, GGT, Bili",
+    "internal_code": "RBBI",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24325-3",
+      "display": "Asat, Alat, Palc, GGT, Bili"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBEPP__0d30a8350d16",
+    "label_fr": "ELECTROPHORESE DES PROTEINES SERIQUES",
+    "label_en": "ELECTROPHORESE DES PROTEINES SERIQUES",
+    "internal_code": "RBEPP",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24351-9",
+      "display": "ELECTROPHORESE DES PROTEINES SERIQUES"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBHEPB__93fc43f0520e",
+    "label_fr": "Sérologie de l'hépatite B :",
+    "label_en": "Sérologie de l'hépatite B :",
+    "internal_code": "RBHEPB",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24363-4",
+      "display": "Sérologie de l'hépatite B :"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBT348__0731192c1b82",
+    "label_fr": "Typage lymphocytaire CD3 CD4 CD8 sur sang total",
+    "label_en": "Typage lymphocytaire CD3 CD4 CD8 sur sang total",
+    "internal_code": "RBT348",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24467-3",
+      "display": "Typage lymphocytaire CD3 CD4 CD8 sur sang total"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBIG__8aafc1dd4080",
+    "label_fr": "Dosage pondéral des immunoglobulines (IgG+IgA+IgM)",
+    "label_en": "Dosage pondéral des immunoglobulines (IgG+IgA+IgM)",
+    "internal_code": "RBIG",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "34536-3",
+      "display": "Dosage pondéral des immunoglobulines (IgG+IgA+IgM)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBQNFC__52c871f708ee",
+    "label_fr": "QuantiFERON TB gold In tube",
+    "label_en": "QuantiFERON TB gold In tube",
+    "internal_code": "RBQNFC",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "46217-6",
+      "display": "QuantiFERON TB gold In tube"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBHIV__979823360658",
+    "label_fr": "Sérodiagnostic de dépistage des anticorps anti - HIV :",
+    "label_en": "Sérodiagnostic de dépistage des anticorps anti - HIV :",
+    "internal_code": "RBHIV",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "56888-1",
+      "display": "Sérodiagnostic de dépistage des anticorps anti - HIV :"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBNF__1a9be7eb4cd1",
+    "label_fr": "NUMERATION FORMULE SANGUINE",
+    "label_en": "NUMERATION FORMULE SANGUINE",
+    "internal_code": "RBNF",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "57021-8",
+      "display": "NUMERATION FORMULE SANGUINE"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBSSPOP__c4382121d06a",
+    "label_fr": "Etude des sous populations lymphocytaires sur sang total",
+    "label_en": "Etude des sous populations lymphocytaires sur sang total",
+    "internal_code": "RBSSPOP",
+    "group": "NEURO - Bilan sclérose en plaque (NEURO-SCLEROSE2)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "89771-0",
+      "display": "Etude des sous populations lymphocytaires sur sang total"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBDRVVT__4e1ad4361216",
+    "label_fr": "Détection des ACC lupiques par test DRVVT (venin de vipère Russel)",
+    "label_en": "Détection des ACC lupiques par test DRVVT (venin de vipère Russel)",
+    "internal_code": "RBDRVVT",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "15065-6",
+      "display": "Détection des ACC lupiques par test DRVVT (venin de vipère Russel)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBB2GP1G__f20491e6f6ff",
+    "label_fr": "ANTICORPS ANTIBETA2GP1 IgG",
+    "label_en": "ANTICORPS ANTIBETA2GP1 IgG",
+    "internal_code": "RBB2GP1G",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "16135-6",
+      "display": "ANTICORPS ANTIBETA2GP1 IgG"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBBW__d538f9d12634",
+    "label_fr": "Sérologie de la Syphilis : Dépistage",
+    "label_en": "Sérologie de la Syphilis : Dépistage",
+    "internal_code": "RBBW",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "20507-0",
+      "display": "Sérologie de la Syphilis : Dépistage"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBHCYS__228ef47dedf4",
+    "label_fr": "Homocystéine",
+    "label_en": "Homocystéine",
+    "internal_code": "RBHCYS",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "2405-3",
+      "display": "Homocystéine"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBAT3__af7b8f6d9c45",
+    "label_fr": "Antithrombine activité",
+    "label_en": "Antithrombine activité",
+    "internal_code": "RBAT3",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "27791-3",
+      "display": "Antithrombine activité"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPC__453d36cacfb3",
+    "label_fr": "Protéine C activité",
+    "label_en": "Protéine C activité",
+    "internal_code": "RBPC",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "27816-8",
+      "display": "Protéine C activité"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPS__482e57f740ca",
+    "label_fr": "Protéine S activité",
+    "label_en": "Protéine S activité",
+    "internal_code": "RBPS",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "27818-4",
+      "display": "Protéine S activité"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBACCL__efdd219a4bce",
+    "label_fr": "ANTICORPS ANTI-CARDIOLIPINE",
+    "label_en": "ANTICORPS ANTI-CARDIOLIPINE",
+    "internal_code": "RBACCL",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "3181-5",
+      "display": "ANTICORPS ANTI-CARDIOLIPINE"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBRAC__2ef0e28bc21f",
+    "label_fr": "Recherche ACC",
+    "label_en": "Recherche ACC",
+    "internal_code": "RBRAC",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "3282-3",
+      "display": "Recherche ACC"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBH1__11742a355bed",
+    "label_fr": "TQ TCA FIB",
+    "label_en": "TQ TCA FIB",
+    "internal_code": "RBH1",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "34534-8",
+      "display": "TQ TCA FIB"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBFAN__481db433ee4a",
+    "label_fr": "Recherche d'auto-anticorps anti-nucléaires",
+    "label_en": "Recherche d'auto-anticorps anti-nucléaires",
+    "internal_code": "RBFAN",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "42250-1",
+      "display": "Recherche d'auto-anticorps anti-nucléaires"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBDANS__414467819f83",
+    "label_fr": "Dépistage d'anticorps anti-antigènes nucléaires solubles",
+    "label_en": "Dépistage d'anticorps anti-antigènes nucléaires solubles",
+    "internal_code": "RBDANS",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "43105-6",
+      "display": "Dépistage d'anticorps anti-antigènes nucléaires solubles"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBHIV__4cb388f74af9",
+    "label_fr": "Sérodiagnostic de dépistage des anticorps anti - HIV :",
+    "label_en": "Sérodiagnostic de dépistage des anticorps anti - HIV :",
+    "internal_code": "RBHIV",
+    "group": "NEURO - Bilan thrombose veineuse cérébrale (NEURO-TH-5)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "56888-1",
+      "display": "Sérodiagnostic de dépistage des anticorps anti - HIV :"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "PRED-ECBC__ad44df79d71d",
+    "label_fr": "Examen Cytobactériologique des Crachats (ECBC)",
+    "label_en": "Examen Cytobactériologique des Crachats (ECBC)",
+    "internal_code": "PRED-ECBC",
+    "group": "Pneumo : Bilan Infectieux (PNEUMO-INFECT-2)",
+    "statut": "Prédit par IA",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "11488-4",
+      "display": "Examen Cytobactériologique des Crachats (ECBC)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "PRED-AGUPN__95458ae8289f",
+    "label_fr": "Antigénurie Pneumocoque",
+    "label_en": "Antigénurie Pneumocoque",
+    "internal_code": "PRED-AGUPN",
+    "group": "Pneumo : Bilan Infectieux (PNEUMO-INFECT-2)",
+    "statut": "Prédit par IA",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "18491-1",
+      "display": "Antigénurie Pneumocoque"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "PRED-CRP__168c2f139edb",
+    "label_fr": "Protéine C-Réactive (CRP)",
+    "label_en": "Protéine C-Réactive (CRP)",
+    "internal_code": "PRED-CRP",
+    "group": "Pneumo : Bilan Infectieux (PNEUMO-INFECT-2)",
+    "statut": "Prédit par IA",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "1988-5",
+      "display": "Protéine C-Réactive (CRP)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "PRED-HEMOC__f3e7ef601a48",
+    "label_fr": "Hémocultures (Aérobie/Anaérobie)",
+    "label_en": "Hémocultures (Aérobie/Anaérobie)",
+    "internal_code": "PRED-HEMOC",
+    "group": "Pneumo : Bilan Infectieux (PNEUMO-INFECT-2)",
+    "statut": "Prédit par IA",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "29250-6",
+      "display": "Hémocultures (Aérobie/Anaérobie)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "PRED-PCT__7a533d5659ac",
+    "label_fr": "Procalcitonine (PCT)",
+    "label_en": "Procalcitonine (PCT)",
+    "internal_code": "PRED-PCT",
+    "group": "Pneumo : Bilan Infectieux (PNEUMO-INFECT-2)",
+    "statut": "Prédit par IA",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "33959-8",
+      "display": "Procalcitonine (PCT)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "PRED-NFS__713abc0c1213",
+    "label_fr": "Numération Formule Sanguine (Hyperleucocytose)",
+    "label_en": "Numération Formule Sanguine (Hyperleucocytose)",
+    "internal_code": "PRED-NFS",
+    "group": "Pneumo : Bilan Infectieux (PNEUMO-INFECT-2)",
+    "statut": "Prédit par IA",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "57021-8",
+      "display": "Numération Formule Sanguine (Hyperleucocytose)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "PRED-PCRRESP__1a4cc8499cdb",
+    "label_fr": "PCR Multiplex Virus Respiratoires (Grippe, VRS, SARS-CoV-2)",
+    "label_en": "PCR Multiplex Virus Respiratoires (Grippe, VRS, SARS-CoV-2)",
+    "internal_code": "PRED-PCRRESP",
+    "group": "Pneumo : Bilan Infectieux (PNEUMO-INFECT-2)",
+    "statut": "Prédit par IA",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "82196-7",
+      "display": "PCR Multiplex Virus Respiratoires (Grippe, VRS, SARS-CoV-2)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "PRED-AGULEG__1530e08760bc",
+    "label_fr": "Antigénurie Légionnelle",
+    "label_en": "Antigénurie Légionnelle",
+    "internal_code": "PRED-AGULEG",
+    "group": "Pneumo : Bilan Infectieux (PNEUMO-INFECT-2)",
+    "statut": "Prédit par IA",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "9786-5",
+      "display": "Antigénurie Légionnelle"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPNUT__1883cb613055",
+    "label_fr": "PROFIL NUTRITIONNEL",
+    "label_en": "PROFIL NUTRITIONNEL",
+    "internal_code": "RBPNUT",
+    "group": "SSR Neuro - Bilan Nutritionnel (SSRNEURO-BNUT-1)"
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBPSA__ae7c4ec35972",
+    "label_fr": "PSA",
+    "label_en": "PSA",
+    "internal_code": "RBPSA",
+    "group": "SSR Neuro - Bilan Nutritionnel (SSRNEURO-BNUT-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "2820-2",
+      "display": "PSA"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBCRP__4228a4e34d1f",
+    "label_fr": "CRP",
+    "label_en": "CRP",
+    "internal_code": "RBCRP",
+    "group": "SSR Neuro - Bilan routine (SSRNEURO-RT-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "1988-5",
+      "display": "CRP"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBGLY__1c11691bab5e",
+    "label_fr": "Glycémie",
+    "label_en": "Glycémie",
+    "internal_code": "RBGLY",
+    "group": "SSR Neuro - Bilan routine (SSRNEURO-RT-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "2345-7",
+      "display": "Glycémie"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBI2__5f51d5ecd5e4",
+    "label_fr": "Na, K, Cl, CO2, PT, Urée, Créat",
+    "label_en": "Na, K, Cl, CO2, PT, Urée, Créat",
+    "internal_code": "RBI2",
+    "group": "SSR Neuro - Bilan routine (SSRNEURO-RT-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "24321-2",
+      "display": "Na, K, Cl, CO2, PT, Urée, Créat"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBNF__5870680528b3",
+    "label_fr": "NUMERATION FORMULE SANGUINE",
+    "label_en": "NUMERATION FORMULE SANGUINE",
+    "internal_code": "RBNF",
+    "group": "SSR Neuro - Bilan routine (SSRNEURO-RT-1)",
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "57021-8",
+      "display": "NUMERATION FORMULE SANGUINE"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBFOLS__c0ebd17dc041",
+    "label_fr": "Vitamine B9 (Folates Sériques)",
+    "label_en": "Vitamine B9 (Folates Sériques)",
+    "internal_code": "RBFOLS",
+    "group": null,
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "2284-8",
+      "display": "Vitamine B9 (Folates Sériques)"
+    }
+  },
+  {
+    "system": "urn:ekene:lab-bilan",
+    "code": "RBHIV__18a320ad2bec",
+    "label_fr": "Sérodiagnostic de dépistage des anticorps anti - HIV",
+    "label_en": "Sérodiagnostic de dépistage des anticorps anti - HIV",
+    "internal_code": "RBHIV",
+    "group": null,
+    "secondary_coding": {
+      "system": "http://loinc.org",
+      "code": "56888-1",
+      "display": "Sérodiagnostic de dépistage des anticorps anti - HIV"
+    }
+  }
+]
